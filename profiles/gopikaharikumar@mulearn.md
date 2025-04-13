@@ -1,8 +1,7 @@
 # Gopika Harikumar
 
 ### About Me
-
-> Hello, I'm Gopika Harikumar , a passionate student pursuing a degree in Computer Science and Engineering .My fascination with technology drives me to understand how things work, whether it's writing efficient code or exploring new programming concept.
+Hello, I'm Gopika Harikumar , a passionate student pursuing a degree in Computer Science and Engineering .My fascination with technology drives me to understand how things work, whether it's writing efficient code or exploring new programming concept.
 
 
 #### Leadership and Influence:
